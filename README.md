@@ -45,3 +45,7 @@ Please feel free to contribute by opening issues on this repo or submitting your
 ## Github repos
 
 - [IBM WebSphere Portal Server and Web Content Manager V9.0 images](https://github.com/digexp/ci.docker.websphere-portal)
+
+## Other
+
+- [Watson Marketing Ideas](https://watsonmarketing.ideas.aha.io), Submit new IBM DX product ideas
