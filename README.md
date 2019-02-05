@@ -42,3 +42,8 @@ Please feel free to contribute by opening issues on this repo or submitting your
     - [Simplified Site Creation with CTC 4.3](https://www.youtube.com/watch?v=DtaipivvPyQ)
     - [IBM WCM 8 5 Syndication Enhancements - HighLevel Overview](https://www.youtube.com/watch?v=gW-21QOF35U)
 
+## Github repos
+
+    - [IBM WebSphere Portal Server and Web Content Manager V9.0 images](https://github.com/digexp/ci.docker.websphere-portal)
+
+
