@@ -1,8 +1,37 @@
-# IBM DX resources
+# IBM Digital Experience resources
 
 A curated list of resources related to the IBM Digital Experience platform. 
 
 Please feel free to contribute by opening issues on this repo or submitting your own pull requests!
+
+## Product Documentation
+
+- [IBM Digital Experience: IBM WebSphere Portal and IBM Web Content Manager V8.5 and V9 documentation](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/welcome/wp_welcome.html)
+    - [Accessibility features](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/overview/access.html)
+    - [Overview](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/overview/intro_container.html)
+    - [Roadmaps to deploy your system](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/install/deployment_patterns.html)
+    - [Roadmaps to create your website](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/install/rm_4site.html)
+    - [Installing](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/install/installing_parent2.html)
+    - [Configuring](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/config/configuring_parent2.html)
+    - [Backup and restore](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/admin-system/i_wadm_c_bkup_restr_winlinux.html)
+    - [Migrating](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/migrate/migration.html)
+    - [Integrating](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/admin-system/integrating_parent.html)
+    - [Administering](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/admin-system/administering_parent.html)
+    - [Securing](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/security/securing_wp.html)
+    - [Monitoring](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/admin-system/monitoring_parent.html)
+    - [Setting up a website](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/site/site_setup.html)
+    - [Staging to production](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/deploy/dep_intr.html)
+    - [Developing](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/dev/developing_parent.html)
+    - [Troubleshooting](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/trouble/troubleshooting.html)
+    - [Reference](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/reference/reference.html)
+- [Online Help for IBM WebSphere Portal and IBM Web Content Manager V8.5](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/welcome/help_welcome.html)
+- [Content Template Catalog 4.3 for Digital Experience V8.5](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/welcome/ctc_welcome.html)
+- [IBM WebSphere Commerce Components for Digital Experience](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/welcome/wcc_welcome.html)
+- [IBM WebSphere Portal Integration for Enterprise Marketing Management 2.0 for Digital Experience V8.5](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/welcome/emm_welcome.html)
+- [IBM Script Portlet for WebSphere Portal](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/welcome/script_welcome.html)
+- [IBM Connections Portlets for WebSphere Portal](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/welcome/connections_welcome.html)
+- [IBM Digital Experience Patterns for WebSphere Portal and IBM Web Content Manager](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/welcome/cloud_welcome.html)
+- [Message Catalog for IBM WebSphere Portal and IBM Web Content Manager V8.5 and V9.0](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/welcome/messages_welcome.html)
 
 ## Blog articles
 
@@ -46,6 +75,15 @@ Please feel free to contribute by opening issues on this repo or submitting your
 
 - [IBM WebSphere Portal Server and Web Content Manager V9.0 images](https://github.com/digexp/ci.docker.websphere-portal)
 
+## Websites
+
+- [IBM Digital Experience Developer Center](https://developer.ibm.com/digexp/)
+
 ## Other
 
 - [Watson Marketing Ideas](https://watsonmarketing.ideas.aha.io), Submit new IBM DX product ideas
+
+
+
+
+
