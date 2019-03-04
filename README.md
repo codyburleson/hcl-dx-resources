@@ -6,7 +6,7 @@ Please feel free to contribute by opening issues on this repo or submitting your
 
 ## Product Documentation
 
-- [IBM Digital Experience: IBM WebSphere Portal and IBM Web Content Manager V8.5 and V9 documentation](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/welcome/wp_welcome.html)
+- :orange_book: [IBM Digital Experience: IBM WebSphere Portal and IBM Web Content Manager V8.5 and V9 documentation](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/welcome/wp_welcome.html)
     - [Accessibility features](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/overview/access.html)
     - [Overview](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/overview/intro_container.html)
         - [What's new](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/overview/intr_new_ov.html)
