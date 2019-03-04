@@ -4,9 +4,9 @@ A curated list of resources related to the IBM Digital Experience platform.
 
 Please feel free to contribute by opening issues on this repo or submitting your own pull requests!
 
-## Product Documentation
+## :blue_book: Product Documentation
 
-- :orange_book: [IBM Digital Experience: IBM WebSphere Portal and IBM Web Content Manager V8.5 and V9 documentation](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/welcome/wp_welcome.html)
+- [IBM Digital Experience: IBM WebSphere Portal and IBM Web Content Manager V8.5 and V9 documentation](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/welcome/wp_welcome.html)
     - [Accessibility features](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/overview/access.html)
     - [Overview](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/overview/intro_container.html)
         - [What's new](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/overview/intr_new_ov.html)
@@ -286,7 +286,7 @@ Please feel free to contribute by opening issues on this repo or submitting your
 - [IBM Digital Experience Patterns for WebSphere Portal and IBM Web Content Manager](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/welcome/cloud_welcome.html)
 - [Message Catalog for IBM WebSphere Portal and IBM Web Content Manager V8.5 and V9.0](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/welcome/messages_welcome.html)
 
-## Blog articles
+## :black_nib: Blog articles
 
 - [codyburleson.com - WebSphere Portal](https://codyburleson.com/tag/ibm-websphere-portal/)
     - [New Web Developer Toolkit for IBM Digital Experience](https://codyburleson.com/new-web-developer-toolkit-for-ibm-digital-experience/)
@@ -314,7 +314,7 @@ Please feel free to contribute by opening issues on this repo or submitting your
     - [WCM security – video overview](https://codyburleson.com/wcm-security-video-overview/)
     - [WCM libraries – video overview](https://codyburleson.com/wcm-libraries-video-overview/)
 
-## Videos
+## :clapper: Videos
 
 - [ADL4WCM](https://www.youtube.com/channel/UCae778HeXXow_ewzPIO4TKQ), YouTube
     - [CF09 Introducing the Generate Button](https://www.youtube.com/watch?v=asv4RleyROk)
@@ -324,17 +324,17 @@ Please feel free to contribute by opening issues on this repo or submitting your
     - [Simplified Site Creation with CTC 4.3](https://www.youtube.com/watch?v=DtaipivvPyQ)
     - [IBM WCM 8 5 Syndication Enhancements - HighLevel Overview](https://www.youtube.com/watch?v=gW-21QOF35U)
 
-## Github repos
+## :octocat: Github repos
 
 - [IBM WebSphere Portal Server and Web Content Manager V9.0 images](https://github.com/digexp/ci.docker.websphere-portal)
 
-## Websites
+## :earth_americas: Websites
 
 - [IBM Digital Experience Developer Center](https://developer.ibm.com/digexp/)
-
-## Other
-
 - [Watson Marketing Ideas](https://watsonmarketing.ideas.aha.io), Submit new IBM DX product ideas
+
+
+
 
 
 
