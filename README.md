@@ -1,10 +1,38 @@
-# IBM Digital Experience resources
+# IBM and HCL Digital Experience resources
 
-A curated list of resources related to the IBM Digital Experience platform. 
+A curated list of resources related to the IBM Digital Experience platform.
 
 Please feel free to contribute by opening issues on this repo or submitting your own pull requests!
 
+## Jump to section...
+
+- [:blue_book: Product Documentation](#blue_book-Product-Documentation)
+    - [HCL Leap Product Documentation](#HCL-Leap-Product-Documentation)
+    - [IBM WebSphere Portal and IBM Web Content Manager V8.5 and V9 documentation](#IBM-WebSphere-Portal-and-IBM-Web-Content-Manager-V8.5-and-V9-documentation)
+- [:black_nib: Blog articles](#black_nib-Blog-articles)
+- [:clapper: Videos](#clapper-Videos)
+- [:octocat: Github repos](#octocat-Github-repos)
+- [:earth_americas: Websites](#earth_americas-Websites)
+
 ## :blue_book: Product Documentation
+
+### HCL Leap Product Documentation
+
+- [HCL Leap 9](http://leap.hcldoc.com/help/topic/LEAPv9/Welcome/LEAP_Welcome.html)
+    - [Overview](http://leap.hcldoc.com/help/topic/LEAPv9/LEAP/ovr_overview.html)
+    - [Tutorials for form design](http://leap.hcldoc.com/help/topic/LEAPv9/LEAP/tut_tutorials_toc.html)
+    - [Installing](http://leap.hcldoc.com/help/topic/LEAPv9/LEAP/in_overview.html)
+    - [Configuring](http://leap.hcldoc.com/help/topic/LEAPv9/LEAP/co_config_toc.html)
+    - [Administering Leap](http://leap.hcldoc.com/help/topic/LEAPv9/LEAP/ad_admin_toc.html)
+    - [Creating and managing applications](http://leap.hcldoc.com/help/topic/LEAPv9/LEAP/cr_creating_and_managing_toc.html)
+    - [Securing](http://leap.hcldoc.com/help/topic/LEAPv9/LEAP/se_security_toc.html)
+    - [Extending](http://leap.hcldoc.com/help/topic/LEAPv9/LEAP/extending_toc.html)
+    - [Troubleshooting](http://leap.hcldoc.com/help/topic/LEAPv9/LEAP/tr_troubleshooting_toc.html)
+    - [Reference](http://leap.hcldoc.com/help/topic/LEAPv9/LEAP/reference_toc.html)
+
+[:top:](#IBM-and-HCL-Digital-Experience-resources)
+
+### IBM WebSphere Portal and IBM Web Content Manager V8.5 and V9 documentation
 
 - [IBM Digital Experience: IBM WebSphere Portal and IBM Web Content Manager V8.5 and V9 documentation](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/welcome/wp_welcome.html)
     - [Accessibility features](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/overview/access.html)
@@ -648,7 +676,41 @@ Please feel free to contribute by opening issues on this repo or submitting your
     - [Migrating](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/migrate/migration.html)
         - [Migration overview](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/migrate/mig_over.html)
         - [Planning for migration](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/plan/mig_plan.html)
+            -[Supported migration paths](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/plan/mig_plan_supported_paths.html)
+            -[Hardware considerations](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/plan/mig_plan_hardware.html)
+            -[Operating systems considerations](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/plan/mig_plan_operating_systems.html)
+            -[Migration considerations](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/plan/mig_plan_high_availability.html)
+                -[Backup and recovery](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/plan/mig_plan_backup_and_recovery.html)
+                -[Local or remote migration](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/migrate/mig_localvremote.html)
+                -[Automated or manual migration](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/migrate/mig_consider_avm.html)
+                -[Portal farm migration](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/plan/mig_plan_portal_farm.html)
+                -[Multiple tier environments](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/migrate/mig_multiple_envs.html)
+                -[Multiple cluster environments](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/plan/mig_plan_clusters.html)
+                -[Migrating from Portal 8.0.0.1 on WebSphere Application Server 8.5.5.2](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/migrate/mig_plan_was855.html)
+                    -[Using staging to production techniques to complete the migration](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/migrate/mig_plan_was_s2p.html)
+                    -[Performing a manual in-place migration](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/migrate/mig_plan_was_manual.html)
+                -[Migration from Portal Server Offering 7.0 to Portal 8.5](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/migrate/mig_consider_7serveronly.html)
+                -[Migrating from Web Content Manager version 7.0 or 8.0](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/migrate/mig_content_from_7-0.html)
+                    -[Planning for changes to web content when migrating from Web Content Manager version 7.0](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/migrate/mig_content_options_planning_7-0.html)
+                    -[IBM Portlet API Web Content Viewer and Remote Web Content Viewer](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/migrate/mig_pre_wcm_portlets.html)
+                    -[Cross version syndication](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/migrate/mig_content_options_cross-version.html)
+                    -[Managed pages options when migrating](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/migrate/mig_content_options_managed_pages_70.html)
+                    -[Library export and import options](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/migrate/mig_content_options_export_7-0.html)
+                -[Port conflicts](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/migrate/mig_plan_port_conflicts.html#mig_plan_port_conflicts)
+            -[Development considerations](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/migrate/mig_plan_devconsiderations.html)
+                -[Deprecated features](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/migrate/mig_pre_deprecated.html)
+                -[Exploitation vs. toleration of applications and themes](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/migrate/mig_plan_exp_v_tol.html)
+                -[Prepare applications and themes](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/migrate/mig_plan_prepare_apps_themes.html)
+                -[Supported toolbar customization](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/migrate/mig_plan_toolbar_customize.html)
+                -[Default changed for JavaServer Faces implementation](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/migrate/mig_post_jsf.html)
+            -[What to expect after you complete migration](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/migrate/mig_plan_expectations.html)
+                -[Themes](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/migrate/mig_plan_expect_themes.html)
+                -[Site toolbar](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/migrate/mig_plan_expect_toolbar.html)
+                -[Migration: Virtual portals](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/migrate/mig_plan_expect_vp.html)
+                -[WebSphere Portal and Web Content Manager administration](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/migrate/mig_plan_expect_wcmadmin.html)
+                -[Page order](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/migrate/mig_expect_pages.html)
         - [Preparing your source environment](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/migrate/mig_t_premig_tasks.html)
+            - LEFT OFF HERE EXPANDING ALL DEPTHS OF PRODUCT DOC; CONTRIBUTORS, FEEL FREE TO JUMP IN...
         - [Setting up the target environment](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/migrate/setting_up_the_target_environment.html)
         - [Migrate data using the configuration wizard](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/migrate/mig_85_wizard.html)
         - [Next steps](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/mp/migrate/mig_nextsteps.html)
@@ -796,6 +858,8 @@ Please feel free to contribute by opening issues on this repo or submitting your
 - [IBM Digital Experience Patterns for WebSphere Portal and IBM Web Content Manager](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/welcome/cloud_welcome.html)
 - [Message Catalog for IBM WebSphere Portal and IBM Web Content Manager V8.5 and V9.0](https://www.ibm.com/support/knowledgecenter/SSHRKX_8.5.0/welcome/messages_welcome.html)
 
+[:top:](#IBM-and-HCL-Digital-Experience-resources)
+
 ## :black_nib: Blog articles
 
 - [codyburleson.com - WebSphere Portal](https://codyburleson.com/tag/ibm-websphere-portal/)
@@ -824,6 +888,8 @@ Please feel free to contribute by opening issues on this repo or submitting your
     - [WCM security – video overview](https://codyburleson.com/wcm-security-video-overview/)
     - [WCM libraries – video overview](https://codyburleson.com/wcm-libraries-video-overview/)
 
+[:top:](#IBM-and-HCL-Digital-Experience-resources)
+
 ## :clapper: Videos
 
 - [ADL4WCM](https://www.youtube.com/channel/UCae778HeXXow_ewzPIO4TKQ), YouTube
@@ -834,20 +900,27 @@ Please feel free to contribute by opening issues on this repo or submitting your
     - [Simplified Site Creation with CTC 4.3](https://www.youtube.com/watch?v=DtaipivvPyQ)
     - [IBM WCM 8 5 Syndication Enhancements - HighLevel Overview](https://www.youtube.com/watch?v=gW-21QOF35U)
 
+[:top:](#IBM-and-HCL-Digital-Experience-resources)
+
 ## :octocat: Github repos
 
 - [IBM WebSphere Portal Server and Web Content Manager V9.0 images](https://github.com/digexp/ci.docker.websphere-portal)
 
+[:top:](#IBM-and-HCL-Digital-Experience-resources)
+
 ## :earth_americas: Websites
 
+- [HCL Forms Experience Builder Community](https://www.ibm.com/developerworks/community/groups/service/html/communitystart?communityUuid=05651788-f17f-4309-a5c6-698e67acd9c1), product renamed "HCL Leap (Lightweight Enterprise Apps)" on July 11, 2018
 - [IBM Digital Experience Developer Center](https://developer.ibm.com/digexp/)
+    - [Samples & Open Source](https://developer.ibm.com/digexp/samples-open-source/)
+    - [Product Downloads](https://developer.ibm.com/digexp/downloads/)
+    - [Additional documentation](https://developer.ibm.com/digexp/docs/docs/)
+    - [Blog](https://developer.ibm.com/digexp/blog/)
+    - [Forum](https://developer.ibm.com/answers/smartspace/digital-experience/index.html)
+    - [Get Help](https://developer.ibm.com/digexp/get-help/)
+    - [Events](https://developer.ibm.com/digexp/events/)
 - [IBM Digital Experience Redbooks](http://www.redbooks.ibm.com/Redbooks.nsf/domains/digitalexperience)
-- [Watson Marketing Ideas](https://watsonmarketing.ideas.aha.io), Submit new IBM DX product ideas
+- [IBM Digital Experience wiki](https://www-10.lotus.com/ldd/portalwiki.nsf/xpViewCategories.xsp?lookupName=Community%20Articles), READ ONLY (aging)
+- [Watson Marketing Ideas](https://watsonmarketing.ideas.aha.io), Submit new IBM DX product 
 
-
-
-
-
-
-
-
+[:top:](#IBM-and-HCL-Digital-Experience-resources)
