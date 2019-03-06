@@ -8,7 +8,7 @@ Please feel free to contribute by opening issues on this repo or submitting your
 
 - [:blue_book: Product Documentation](#blue_book-Product-Documentation)
     - [HCL Leap Product Documentation](#HCL-Leap-Product-Documentation)
-    - [IBM WebSphere Portal and IBM Web Content Manager V8.5 and V9 documentation](#IBM-WebSphere-Portal-and-IBM-Web-Content-Manager-V8.5-and-V9-documentation)
+    - [IBM WebSphere Portal and IBM Web Content Manager V8.5 and V9 documentation](#ibm-websphere-portal-and-ibm-web-content-manager-v85-and-v9-documentation)
 - [:black_nib: Blog articles](#black_nib-Blog-articles)
 - [:clapper: Videos](#clapper-Videos)
 - [:octocat: Github repos](#octocat-Github-repos)
