@@ -1351,6 +1351,8 @@ Please feel free to contribute by opening issues on this repo or submitting your
     - [WCM libraries – video overview](https://codyburleson.com/wcm-libraries-video-overview/)
 - Perficient
     - [How to Install IBM WebSphere Portal 9 on Ubuntu](https://blogs.perficient.com/2017/10/30/how-to-install-websphere-portal-9-on-ubuntu/)
+- [IBM Web Content Manager Best Practices](https://www.ibm.com/developerworks/community/files/basic/anonymous/api/library/4b2d9937-99c0-4fe8-8065-6284f9030242/document/914421a1-c245-42df-b959-886ddd8fe751/media/xDx_WCM_8.5_Best_Practices.pdf), PDF
+- [Portal Access Control Attribute Based Security for WCM Content](https://www.ibm.com/developerworks/community/groups/service/html/communityview?communityUuid=8f2bc166-3bdc-4a9d-bad4-3620dbb3e46c#fullpageWidgetId=Wc5d73787a343_444e_a578_049379d72276&file=d898a782-82e5-43a1-86f1-4d983b342256), PDF
 
 [:top:](#IBM-and-HCL-Digital-Experience-resources)
 
@@ -1363,6 +1365,8 @@ Please feel free to contribute by opening issues on this repo or submitting your
     - [Updates to Image and File elements introduced in IBM Web Content Manager CF06:](https://www.youtube.com/watch?v=w-suqxL5-vM)
     - [Simplified Site Creation with CTC 4.3](https://www.youtube.com/watch?v=DtaipivvPyQ)
     - [IBM WCM 8 5 Syndication Enhancements - HighLevel Overview](https://www.youtube.com/watch?v=gW-21QOF35U)
+- [Lunch Byte - Understanding WCM Libraries](https://www.youtube.com/watch?v=3nrszlb2csI&t=2s)
+- [Lunch Bytes - WCM Security](https://www.youtube.com/watch?v=_EkB-tlBxiA)
 
 [:top:](#IBM-and-HCL-Digital-Experience-resources)
 
@@ -1375,6 +1379,43 @@ Please feel free to contribute by opening issues on this repo or submitting your
 ## :earth_americas: Websites
 
 - [HCL Forms Experience Builder Community](https://www.ibm.com/developerworks/community/groups/service/html/communitystart?communityUuid=05651788-f17f-4309-a5c6-698e67acd9c1), product renamed "HCL Leap (Lightweight Enterprise Apps)" on July 11, 2018
+- [IBM Collaboration Solutions Catalog](https://xspy.mybluemix.net/) - IBM Web Content Manager
+    - [Content XRay portlet](https://xspy.mybluemix.net/of)
+    - [IBM Support Tools portlet for Lotus WCM](https://xspy.mybluemix.net/k4)
+    - [IBM Content Template Catalog 4.1.4 for WebSphere Portal v8.0.0.1](https://xspy.mybluemix.net/my)
+    - [IBM Social Rendering Templates for Digital Data Connector](https://xspy.mybluemix.net/ms)
+    - [IBM Web Content Manager Library Dependency Graph Portlet](https://xspy.mybluemix.net/ly)
+    - [IBM Web Content Manager for WebSphere Commerce](https://xspy.mybluemix.net/lr)
+- [IBM Collaboration Solutions Catalog](https://xspy.mybluemix.net/) - WebSphere Portal
+    - [Web Application Integrator for IBM WebSphere Portal](https://xspy.mybluemix.net/o8)
+    - [IBM Mobile Preview for Digital Experience Software](https://xspy.mybluemix.net/nh)
+    - [IBM WebSphere Portal Integration for Enterprise Marketing Management](https://xspy.mybluemix.net/mz)
+    - [IBM Connections Portlets For WebSphere Portal v5.0](https://xspy.mybluemix.net/mo)
+    - [IBM WebSphere Portal Explorative Navigation portlet](https://xspy.mybluemix.net/lx)
+    - [IBM WebSphere Portal Unified Task List Portlet - Developer Pack](https://xspy.mybluemix.net/kv)
+    - [https://xspy.mybluemix.net/hk](https://xspy.mybluemix.net/hk)
+    - [IBM Theme Editor for IBM WebSphere Portal](https://xspy.mybluemix.net/nw)
+    - [IBM WebSphere Commerce Components for Digital Experience](https://xspy.mybluemix.net/nk)
+    - [IBM Single-Page Application Theme Module for WebSphere Portal](https://xspy.mybluemix.net/nb)
+    - [IBM Social Rendering Templates for Digital Data Connector](https://xspy.mybluemix.net/ms)
+    - [IBM WebSphere Portal 8.0 Cache Viewer](https://xspy.mybluemix.net/m4)
+    - [IBM Web Experience Government Template](https://xspy.mybluemix.net/la)
+    - [IBM WebSphere Portal Self Registration portlet Demo](https://xspy.mybluemix.net/jw)
+    - [IBM Lotus iNotes portlet for WebSphere Portal 8.0](https://xspy.mybluemix.net/nq)
+    - [IBM Lotus Notes View portlet for WebSphere Portal 8.0](https://xspy.mybluemix.net/nf)
+    - [IBM Content Template Catalog 4.1.4 for WebSphere Portal v8.0.0.1](https://xspy.mybluemix.net/my)
+    - [IBM Connections Files and Profiles Integration Pack for WebSphere Portal](https://xspy.mybluemix.net/mj)
+    - [IBM Log Viewer Portlet for WebSphere Portal](https://xspy.mybluemix.net/m6)
+    - [IBM Web Experience Banking Template](https://xspy.mybluemix.net/l9)
+    - [IBM Portlet Application for Microsoft Exchange](https://xspy.mybluemix.net/jq)
+    - [IBM Theme Preview for IBM WebSphere Portal](https://xspy.mybluemix.net/nm)
+    - [IBM WebSphere Portal 8.5 Cache Viewer](https://xspy.mybluemix.net/nd)
+    - [IBM UX Screen Flow Manager for WebSphere Portal Demo](https://xspy.mybluemix.net/mx)
+    - [IBM WebSphere Portal Page Migration Tool](https://xspy.mybluemix.net/mk)
+    - [IBM Theme Optimization Analyzer Portlet for WebSphere Portal 8.0/8.0.0.1](https://xspy.mybluemix.net/mf)
+    - [IBM Web Content Manager for WebSphere Commerce](https://xspy.mybluemix.net/lr)
+    - [IBM WebSphere Portal Sametime Chat portlet](https://xspy.mybluemix.net/jx)
+    - [IBM WebSphere Portal Mobile Theme](https://xspy.mybluemix.net/hj)
 - [IBM Digital Experience Developer Center](https://developer.ibm.com/digexp/)
     - [Samples & Open Source](https://developer.ibm.com/digexp/samples-open-source/)
     - [Product Downloads](https://developer.ibm.com/digexp/downloads/)
@@ -1389,5 +1430,5 @@ Please feel free to contribute by opening issues on this repo or submitting your
 
 [:top:](#IBM-and-HCL-Digital-Experience-resources)
 
-- [IBM Web Content Manager Best Practices](https://www.ibm.com/developerworks/community/files/basic/anonymous/api/library/4b2d9937-99c0-4fe8-8065-6284f9030242/document/914421a1-c245-42df-b959-886ddd8fe751/media/xDx_WCM_8.5_Best_Practices.pdf), PDF
-- [Portal Access Control Attribute Based Security for WCM Content](https://www.ibm.com/developerworks/community/groups/service/html/communityview?communityUuid=8f2bc166-3bdc-4a9d-bad4-3620dbb3e46c#fullpageWidgetId=Wc5d73787a343_444e_a578_049379d72276&file=d898a782-82e5-43a1-86f1-4d983b342256), PDF
+
+
