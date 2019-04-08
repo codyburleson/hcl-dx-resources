@@ -7,7 +7,6 @@ Please feel free to contribute by opening issues on this repo or submitting your
 ## Jump to section...
 
 - [:blue_book: Product Documentation](#blue_book-Product-Documentation)
-    - [HCL Leap Product Documentation](#HCL-Leap-Product-Documentation)
     - [IBM WebSphere Portal and IBM Web Content Manager V8.5 and V9 documentation](#ibm-websphere-portal-and-ibm-web-content-manager-v85-and-v9-documentation)
 - [:black_nib: Blog articles](#black_nib-Blog-articles)
 - [:clapper: Videos](#clapper-Videos)
@@ -15,22 +14,6 @@ Please feel free to contribute by opening issues on this repo or submitting your
 - [:earth_americas: Websites](#earth_americas-Websites)
 
 ## :blue_book: Product Documentation
-
-### HCL Leap Product Documentation
-
-- [HCL Leap 9](http://leap.hcldoc.com/help/topic/LEAPv9/Welcome/LEAP_Welcome.html)
-    - [Overview](http://leap.hcldoc.com/help/topic/LEAPv9/LEAP/ovr_overview.html)
-    - [Tutorials for form design](http://leap.hcldoc.com/help/topic/LEAPv9/LEAP/tut_tutorials_toc.html)
-    - [Installing](http://leap.hcldoc.com/help/topic/LEAPv9/LEAP/in_overview.html)
-    - [Configuring](http://leap.hcldoc.com/help/topic/LEAPv9/LEAP/co_config_toc.html)
-    - [Administering Leap](http://leap.hcldoc.com/help/topic/LEAPv9/LEAP/ad_admin_toc.html)
-    - [Creating and managing applications](http://leap.hcldoc.com/help/topic/LEAPv9/LEAP/cr_creating_and_managing_toc.html)
-    - [Securing](http://leap.hcldoc.com/help/topic/LEAPv9/LEAP/se_security_toc.html)
-    - [Extending](http://leap.hcldoc.com/help/topic/LEAPv9/LEAP/extending_toc.html)
-    - [Troubleshooting](http://leap.hcldoc.com/help/topic/LEAPv9/LEAP/tr_troubleshooting_toc.html)
-    - [Reference](http://leap.hcldoc.com/help/topic/LEAPv9/LEAP/reference_toc.html)
-
-[:top:](#IBM-and-HCL-Digital-Experience-resources)
 
 ### IBM WebSphere Portal and IBM Web Content Manager V8.5 and V9 documentation
 
