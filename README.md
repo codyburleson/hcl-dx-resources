@@ -2779,7 +2779,7 @@ Please feel free to contribute by opening issues on this repo or submitting your
 
 ## :octocat: Github repos
 
-- [IBM WebSphere Portal Server and Web Content Manager V9.0 images](https://github.com/digexp/ci.docker.websphere-portal)
+- [HCL-TECH-SOFTWARE/WebDevToolkitForDx](https://github.com/HCL-TECH-SOFTWARE/WebDevToolkitForDx)
 
 [:top:](#IBM-and-HCL-Digital-Experience-resources)
 
