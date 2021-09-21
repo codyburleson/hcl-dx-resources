@@ -2779,7 +2779,7 @@ Please feel free to contribute by opening issues on this repo or submitting your
 
 ## :octocat: Github repos
 
-- [HCL-TECH-SOFTWARE/WebDevToolkitForDx](https://github.com/HCL-TECH-SOFTWARE/WebDevToolkitForDx)
+- [HCL-TECH-SOFTWARE/WebDevToolkitForDx](https://github.com/HCL-TECH-SOFTWARE/WebDevToolkitForDx) - Web Developer Toolkit for HCL Digital Experience
 
 [:top:](#IBM-and-HCL-Digital-Experience-resources)
 
