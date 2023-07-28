@@ -1,16 +1,16 @@
 # IBM and HCL Digital Experience resources
 
-A curated list of resources related to the IBM Digital Experience platform.
+A curated list of resources related to the HCL Digital Experience platform.
 
 Please feel free to contribute by opening issues on this repo or submitting your own pull requests!
 
 ## Jump to section...
 
-- [:blue_book: IBM WebSphere Portal and IBM Web Content Manager V8.5 and V9 documentation](#blue_book-ibm-websphere-portal-and-ibm-web-content-manager-v85-and-v9-documentation)
-- [:black_nib: Blog articles](#black_nib-Blog-articles)
-- [:clapper: Videos](#clapper-Videos)
-- [:octocat: Github repos](#octocat-Github-repos)
-- [:earth_americas: Websites](#earth_americas-Websites)
+- [:blue_book: HCL WebSphere Portal and HCL Web Content Manager V8.5 and V9 documentation](#ibm-websphere-portal-and-ibm-web-content-manager-v85-and-v9-documentation)
+- [:black_nib: Blog articles](#black_nib-blog-articles)
+- [:clapper: Videos](#clapper-videos)
+- [:octocat: Github repos](#octocat-github-repos)
+- [:earth_americas: Websites](#earth_americas-websites)
 
 ## :blue_book: Product Documentation
 
