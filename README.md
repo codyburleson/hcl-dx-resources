@@ -11,6 +11,7 @@ Please feel free to contribute by opening issues on this repo or submitting your
 - [:clapper: Videos](#clapper-videos)
 - [:octocat: Github repos](#octocat-github-repos)
 - [:earth_americas: Websites](#earth_americas-websites)
+- [:phone: Support Articles](#support_articles)
 
 ## :blue_book: Product Documentation
 
@@ -2788,6 +2789,7 @@ Please feel free to contribute by opening issues on this repo or submitting your
 ## :earth_americas: Websites
 
 - [HCL Forms Experience Builder Community](https://www.ibm.com/developerworks/community/groups/service/html/communitystart?communityUuid=05651788-f17f-4309-a5c6-698e67acd9c1), product renamed "HCL Leap (Lightweight Enterprise Apps)" on July 11, 2018
+- [HCL Software Customer Support](https://support.hcltechsw.com/csm?id=csm_index)
 - [IBM Collaboration Solutions Catalog](https://xspy.mybluemix.net/) - IBM Web Content Manager
     - [Content XRay portlet](https://xspy.mybluemix.net/of)
     - [IBM Support Tools portlet for Lotus WCM](https://xspy.mybluemix.net/k4)
@@ -2840,4 +2842,8 @@ Please feel free to contribute by opening issues on this repo or submitting your
 [:top:](#IBM-and-HCL-Digital-Experience-resources)
 
 
+## :phone: Support Articles
 
+- [How to include pages containing the Web Content Viewer portlet in the Portal Seedlist](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0084373)
+
+[:top:](#IBM-and-HCL-Digital-Experience-resources)
