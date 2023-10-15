@@ -7,6 +7,7 @@ Please feel free to contribute by opening issues on this repo or submitting your
 ## Jump to section...
 
 - [:blue_book: HCL WebSphere Portal and HCL Web Content Manager V8.5 and V9 documentation](#ibm-websphere-portal-and-ibm-web-content-manager-v85-and-v9-documentation)
+- [:computer: Portal Server API Docs Online](http://portalserver-docs.codyburleson.com.s3-website.us-east-2.amazonaws.com/)
 - [:black_nib: Blog articles](#black_nib-blog-articles)
 - [:clapper: Videos](#clapper-videos)
 - [:octocat: Github repos](#octocat-github-repos)
