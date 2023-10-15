@@ -1,4 +1,4 @@
-# IBM and HCL Digital Experience resources
+# HCL Digital Experience Resources
 
 A curated list of resources related to the HCL Digital Experience platform.
 
